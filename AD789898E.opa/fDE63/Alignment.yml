@@ -1,0 +1,22 @@
+segment_sources:
+  I7E7413BF:
+    type: origin_type
+    relation: translation
+    language: en
+  ICD99944C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  cb9dc320545f4b638be0fdad3f3f58d3:
+    I7E7413BF: 327f184fc08a4f6a8a9cff69782f5b70
+    ICD99944C: 9cab5de3d7ef4192adc1464f49bab2de
+  5105dd24378945db88da0531cfbc3eed:
+    I7E7413BF: d140321635a34139bde39ae56137990d
+    ICD99944C: a5b976e3dae24e15af864838bdf0f037
+  94e2753eac864ee69288b254c0b8fe2c:
+    I7E7413BF: 608300041e1b445bafd38b6ac615f217
+    ICD99944C: 408a88ba1066403798b37f848ebbf5dc
+  e1c7f5d559914fccb0b276033881880e:
+    I7E7413BF: 3a8e6046be504540ada6fa1b4edf14c2
+    ICD99944C: 85b4561572c942338cc31bc25dbd1d45
